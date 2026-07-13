@@ -1,0 +1,8 @@
+package data.dto
+
+import kotlinx.serialization.Serializable
+
+@Serializable
+data class ProductsResponseDto(
+    val products: List<ProductDto>
+)
