@@ -67,6 +67,12 @@ https://dummyjson.com/products
 - Search Products
 - Product Details
 
+## Screenshots
+
+| Product List                       | Search                         | Product Detail                 |
+|------------------------------------|--------------------------------|--------------------------------|
+| ![](readme_images/screenshot1.png) | ![](readme_images/screenshot2) | ![](readme_images/screenshot3) |
+
 ## Future Improvements
 
 - Product Images
